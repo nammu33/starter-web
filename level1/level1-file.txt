@@ -1,3 +1,0 @@
-Lastly, before we program our first official bash shell script, let's briefly discuss shell navigation and the difference between a relative and absolute file path.
-
-P
