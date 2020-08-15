@@ -1,3 +1,3 @@
 Lastly, before we program our first official bash shell script, let's briefly discuss shell navigation and the difference between a relative and absolute file path.
 
-Probably the best analogy to explain a relative vs. absolute file path is to visualise GNU/Linux filesystem as a multiple storey building. The root directory (building's entrance door) indicated by / provides the entry to the entire filesystem (building), hence giving access to all directories (levels/rooms) and files (people).
+P
