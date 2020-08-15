@@ -1,0 +1,3 @@
+There are various other shell interpreters available, such as Korn shell, C shell and more. From this reason, it is a good practice to define the shell interpreter to be used explicitly to interpret the script's content.
+
+To define your script's interpreter as Bash, first locate a full path to its executable binary using
