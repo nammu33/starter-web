@@ -1,3 +1,4 @@
 There are various other shell interpreters available, such as Korn shell, C shell and more. From this reason, it is a good practice to define the shell interpreter to be used explicitly to interpret the script's content.
 
 To define your script's interpreter as Bash, first locate a full path to its executable binary using
+In fact, the file extension on GNU/Linux systems mostly does not have any meaning apart from the fact, that upon the execution of
