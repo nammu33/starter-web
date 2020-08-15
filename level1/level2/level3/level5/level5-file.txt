@@ -1,0 +1,1 @@
+Navigation through GNU/Linux filesystem is a simple and yet to many a very confusing topic. Familiarise yourself with GNU/Linux filesystem navigation before you move on to next sections of this tutorial.

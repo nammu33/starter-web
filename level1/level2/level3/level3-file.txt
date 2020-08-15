@@ -1,0 +1,1 @@
+Fortunately, GNU/Linux features a simple compass tool to help you navigate throughout the filesystem in the form of pwd command. This command, when executed, will always print your current location. The following example will use cd and pwd command to navigate GNU/Linux filesystem using absolute and relative paths.
